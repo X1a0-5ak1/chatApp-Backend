@@ -1,0 +1,11 @@
+{
+  "reactSnippets.settings.prettierEnabled": true,
+  "vs-code-prettier-eslint.prettierLast": true,
+  "prettier.trailingComma": "all",
+  "prettier.withNodeModules": true,
+  "prettier.singleAttributePerLine": true,
+  "prettier.printWidth": 120,
+  "prettier.enableDebugLogs": true,
+  "prettier.bracketSameLine": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
